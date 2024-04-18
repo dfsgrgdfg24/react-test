@@ -1,0 +1,36 @@
+.conteiner{
+    justify-content: space-between;
+    padding: 30px;
+}
+.Header_link_item:not(:last-child){
+    padding: 35px;
+    font-size: 20px;
+    font-style:italic;
+}
+.Header{
+  background-color:lightcyan;
+}
+.logo{
+    width: 70px;
+    height: 70px;
+    display: block;
+}
+.logo-contac{
+    width: 20px;
+    height: 20px;
+}
+.for_search{
+    justify-content: center;
+    margin-left: 550px;
+}
+.place_for_search{
+    height: 40px;
+    width: 500px;
+    border-radius: 40px;
+    background-color: powderblue;
+}
+.button_for_search{
+    height: 25px;
+    width: 50px;
+    background-color: powderblue;
+}

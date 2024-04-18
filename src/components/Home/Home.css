@@ -1,0 +1,16 @@
+.home{
+    background-image: url(https://i.pinimg.com/564x/b5/0c/29/b50c29ecac684221e0827a0c1d07cabc.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.for-home{
+    width: 450px;
+    height: 450px;
+    margin: 30px;
+    border: 2px solid blue;
+}
+.text3{
+  margin-top: 0px;
+  margin-left: 360px;
+}
